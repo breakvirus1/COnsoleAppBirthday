@@ -1,0 +1,16 @@
+C:\Users\SystemX\source\repos\BirthdayConsoleApp\BirthdayConsoleApp\bin\Debug\net5.0\BirthdayConsoleApp.exe
+C:\Users\SystemX\source\repos\BirthdayConsoleApp\BirthdayConsoleApp\bin\Debug\net5.0\BirthdayConsoleApp.deps.json
+C:\Users\SystemX\source\repos\BirthdayConsoleApp\BirthdayConsoleApp\bin\Debug\net5.0\BirthdayConsoleApp.runtimeconfig.json
+C:\Users\SystemX\source\repos\BirthdayConsoleApp\BirthdayConsoleApp\bin\Debug\net5.0\BirthdayConsoleApp.runtimeconfig.dev.json
+C:\Users\SystemX\source\repos\BirthdayConsoleApp\BirthdayConsoleApp\bin\Debug\net5.0\BirthdayConsoleApp.dll
+C:\Users\SystemX\source\repos\BirthdayConsoleApp\BirthdayConsoleApp\bin\Debug\net5.0\ref\BirthdayConsoleApp.dll
+C:\Users\SystemX\source\repos\BirthdayConsoleApp\BirthdayConsoleApp\bin\Debug\net5.0\BirthdayConsoleApp.pdb
+C:\Users\SystemX\source\repos\BirthdayConsoleApp\BirthdayConsoleApp\obj\Debug\net5.0\BirthdayConsoleApp.csproj.AssemblyReference.cache
+C:\Users\SystemX\source\repos\BirthdayConsoleApp\BirthdayConsoleApp\obj\Debug\net5.0\BirthdayConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SystemX\source\repos\BirthdayConsoleApp\BirthdayConsoleApp\obj\Debug\net5.0\BirthdayConsoleApp.AssemblyInfoInputs.cache
+C:\Users\SystemX\source\repos\BirthdayConsoleApp\BirthdayConsoleApp\obj\Debug\net5.0\BirthdayConsoleApp.AssemblyInfo.cs
+C:\Users\SystemX\source\repos\BirthdayConsoleApp\BirthdayConsoleApp\obj\Debug\net5.0\BirthdayConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\source\repos\BirthdayConsoleApp\BirthdayConsoleApp\obj\Debug\net5.0\BirthdayConsoleApp.dll
+C:\Users\SystemX\source\repos\BirthdayConsoleApp\BirthdayConsoleApp\obj\Debug\net5.0\ref\BirthdayConsoleApp.dll
+C:\Users\SystemX\source\repos\BirthdayConsoleApp\BirthdayConsoleApp\obj\Debug\net5.0\BirthdayConsoleApp.pdb
+C:\Users\SystemX\source\repos\BirthdayConsoleApp\BirthdayConsoleApp\obj\Debug\net5.0\BirthdayConsoleApp.genruntimeconfig.cache
